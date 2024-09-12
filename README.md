@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on my personal website.<br>I am looking for work and am open to contact about that.
+I am studying Computing with Software Development at Munster Technological University as a third-year student. <br> My main programming language is Java, but I also like web programming.
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am studying Computing with Software Development at Munster Technological University as a third-year student. <br> My main programming language is Java, but I also like web programming.
+Hello, I am Nazim Alperen Akcakaya. After years in Turkey, the United States of America and Canada, I am now in Ireland.<br> I am studying Computing with Software Development at Munster Technological University as a third-year student. <br> My main programming language is Java, but I also like web programming.
 
 
 ## 🌐 Socials:
